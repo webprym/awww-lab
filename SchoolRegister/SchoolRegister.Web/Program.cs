@@ -12,6 +12,8 @@ namespace SchoolRegister.Web
 {
     public class Program
     {
+        // ELO
+
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
